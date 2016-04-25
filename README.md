@@ -1,7 +1,7 @@
 # shellscripts
 This repository has scripts for simple learning, automation
 
-
+-------------
 case expression in
     pattern1 )
         statements ;;
@@ -9,3 +9,6 @@ case expression in
         statements ;;
     ...
 esac
+------------------
+
+https://linuxconfig.org/bash-scripting-tutorial
